@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1602],{3624:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"bluetooth","count":1,"permalink":"/blog/tags/bluetooth"}')}}]);

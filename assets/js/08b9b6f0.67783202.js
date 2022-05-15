@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5664],{8531:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"hackintosh","count":2,"permalink":"/blog/tags/hackintosh"}')}}]);

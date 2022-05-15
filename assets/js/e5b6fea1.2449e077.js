@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3073],{4779:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"bcm94360cd","count":1,"permalink":"/blog/tags/bcm-94360-cd"}')}}]);
